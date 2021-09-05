@@ -1,0 +1,2 @@
+# spamwha
+Spam WhatsApp Script 🗿
